@@ -1,2 +1,2 @@
 # gists
-Because you can't upload gists as an organisation
+_Because you can't upload gists as an organisation_
